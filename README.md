@@ -40,12 +40,9 @@ To run this game, you need to have Python installed on your system. You can down
 ## Files Included
 
 - `tic_tac_toe.py`: Contains the Python code for the Tic-Tac-Toe game.
-- `README.md`: This file, containing information about the game and how to run it.
+- `README.md`: This file, contains information about the game and how to run it.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
----
-
-Feel free to customize this README file further based on additional features, instructions, or any other relevant information about your game.
