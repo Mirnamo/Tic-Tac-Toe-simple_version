@@ -32,7 +32,7 @@ To run this game, you need to have Python installed on your system. You can down
 
 ## Game Rules
 
-1. Players take turns marking an empty space on the grid with their symbol ('X' or 'O').
+1. Players take turns marking an empty space on the grid with their symbol ('X' or 'O'), the player symbol is assigned randomly.
 2. The first player to form a line of three of their symbols wins.
 3. A line can be horizontal, vertical, or diagonal.
 4. If all spaces are filled without a winner, the game ends in a tie.
