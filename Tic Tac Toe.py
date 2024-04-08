@@ -62,6 +62,7 @@ def game():
             break
 
         # Switch players
+        # '^' operator is XOR operator, you can switch this by using random.choice() function
         current_player = players[players.index(current_player) ^ 1]
     return board
 
